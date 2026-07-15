@@ -25,7 +25,10 @@
 2. 음식 종류 추가
 크게 이 두 가지의 피드백을 받아 app_v3을 제작했다. 1번 피드백을 반영해 냉동실/냉장실/김치냉장고/실외/무더운 여름 실외 로 선택지를 추가할 수 있도록 했다. 이때 선택 후에도 온습도/시간 슬라이더를 조절할 수 있게 만들어 사용자가 능동적으로 사용할 수 있도록 했다.
 2번 피드백을 반영해 학술 자료를 조사해 계란과 유제품류를 추가했다.
-시행착오: 실제로 균 생장을 실험해보고 싶었으나 시간적 여유도 부족하고 재료도 마땅치 않아 신뢰할 수 있는 학술 자료들의 데이터를 근거로 삼아 코딩했다.
+시행착오
+: 실제로 균 생장을 실험해보고 싶었으나 시간적 여유도 부족하고 재료도 마땅치 않아 신뢰할 수 있는 학술 자료들의 데이터를 근거로 삼아 코딩했다.
+: 사용자가 사용하기 편하게 레이아웃을 수정했다. (app_v3.1.py)
+
 참고문헌: T.T. Lott, M. Wiedmann, N.H. Martin, Shelf-life storage temperature has a considerably larger effect than high-temperature, short-time pasteurization temperature on the growth of spore-forming bacteria in fluid milk, Journal of Dairy Science, Volume 106, Issue 6, 2023, Pages 3838-3855, ISSN 0022-0302, https://doi.org/10.3168/jds.2022-22832
 M.O. Eke, N.I. Olaitan, J.H. Ochefu,Effect of Storage Conditions on the Quality Attributes of Shell (Table) Eggs, Nigerian  Food Journal, Volume 31, Issue 2, 2013, Pages 18-24, ISSN 0189-7241, https://doi.org/10.1016/S0189-7241(15)30072-2.
 
