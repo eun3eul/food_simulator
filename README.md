@@ -1,4 +1,7 @@
 신성쌤짱
+step_2 - app: https://foodsimulator-ln3nbcfvw9zh3cbtwsnwhq.streamlit.app/
+step 3 - app_v2: https://v2foodsimulator-py8zdeusxttnqd6sk6cfdp.streamlit.app/
+step 4 - app_v3.1: https://v31-foodsimulator-efrwgggbn3ndcb6h8ntbzi.streamlit.app/
 
 #step_1
 제일 먼저 대장균의 생장곡선을 출력하는 코드를 작성했다.
